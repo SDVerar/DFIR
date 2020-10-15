@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Sydney Verar and I am currently studying Digital Forensics and Information Assurance at Marshall Univeristy. I am originally starting for write ups in the Magnet CTFs and the upcoming Cellebrite CTF events. In the future I may end up posting other findings and event technology related that I come accross.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Social Media:
+[Twitter](https://twitter.com/Neon_Tacos)
+[LinkedIn](https://www.linkedin.com/in/verar/)
