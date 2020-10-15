@@ -17,7 +17,7 @@ Tools used in this challenge: Axiom Process
 First, we need to take a look at Android file systems and find out where information is stored, more particularly where names are tied to ip addresses. Through some quick Google researching, we can find that on Android file systems, it stores this information in the /etc/hosts file. Great! Now we have a strong place to look for to make our investigation much faster.
 
 Next we need to parse our MUS_Andriod.tar file and I will be using Axiom Process for this challenge. Once our image has been loaded we can switch over to to file system view as seen here: 
-![Search](/assets/SearchResults.jpg)
+![Search](/assets/SystemSearch.jpg)
 
 
 Performing a quick search for 'hosts' in the file system dump will lead us to a hosts file with these details:
