@@ -12,7 +12,7 @@ Week 1 Question:
 What time was the file that maps name to IP's recently accessed?
 (Please answer in this format in UTC: mm/dd/yyy HH:MM:SS)`
 
-Tools used in this challenge: Axiom Process
+Tool used in this challenge: Axiom Process
 
 First, we need to take a look at Android file systems and find out where information is stored, more particularly where names are tied to ip addresses. Through some quick Google researching, we can find that on Android file systems, it stores this information in the /etc/hosts file. Great! Now we have a strong place to look for to make our investigation much faster.
 
