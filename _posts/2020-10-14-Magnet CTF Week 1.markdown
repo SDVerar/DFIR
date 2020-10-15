@@ -17,12 +17,12 @@ Tools used in this challenge: Axiom Process
 First, we need to take a look at Android file systems and find out where information is stored, more particularly where names are tied to ip addresses. Through some quick Google researching, we can find that on Android file systems, it stores this information in the /etc/hosts file. Great! Now we have a strong place to look for to make our investigation much faster.
 
 Next, we need to parse our MUS_Andriod.tar file and I will be using Axiom Process for this challenge. Once our image has been loaded, we can switch over to to file system view as seen here: 
-![Search](/DFIR/Assets/Snip1.jpg)
+![Search](https://github.com/neontacos/DFIR/Assets/Snip1.jpg)
 
 
 Performing a quick search for 'hosts' in the file system dump will lead us to a hosts file with these details:
 
-![hosts](/DFIR/Assets/snip2.jpg)
+![hosts](https://github.com/neontacos/DFIR/Assets/snip2.jpg)
 
 We then input our answer of 03/05/2020 05:50:18 already converted in UTC time for us and that gives our correct answer! Not too much of a challenge but keeps you on your toes.
 There are many ways this could have been done and advanced tools such as Axiom Process are not even needed for a task like this. The .tar file could have been loaded into a Linux terminal and a user could have cd over to that hosts file path that way but I wanted to get some exposure to using a tool like Axiom. Looking forward to writing Week 2's Write up!
