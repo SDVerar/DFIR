@@ -23,7 +23,7 @@ email: Verar@Marshall.edu
 description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "/DFIR" # the subpath of your site, e.g. /blog
-url: "https://neontacos.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://neontacos.github.io/DFIR" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Neon_Tacos
 github_username:  Neontacos
 
