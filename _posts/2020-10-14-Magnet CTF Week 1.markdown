@@ -22,7 +22,7 @@ Next, we need to parse our MUS_Andriod.tar file and I will be using Axiom Proces
 
 Performing a quick search for 'hosts' in the file system dump will lead us to a hosts file with these details:
 
-![hosts](https://neontacos.github.io/DFIR/blob/main/Assets/snip2.jpg)
+![hosts](https://neontacos.github.io/DFIR/tree/main/Assets/snip2.jpg)
 
 We then input our answer of 03/05/2020 05:50:18 already converted in UTC time for us and that gives our correct answer! Not too much of a challenge but keeps you on your toes.
 There are many ways this could have been done and advanced tools such as Axiom Process are not even needed for a task like this. The .tar file could have been loaded into a Linux terminal and a user could have cd over to that hosts file path that way but I wanted to get some exposure to using a tool like Axiom. Looking forward to writing Week 2's Write up!
