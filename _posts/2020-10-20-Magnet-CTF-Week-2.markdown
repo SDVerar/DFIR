@@ -39,7 +39,7 @@ All we need to do is reorganize our data in descending order of last visted and 
 **Post solution and learning**
 
 There are a couple of side notes to this and one is to make sure you do not do what I did and insert the whole url instead of the domain name then get really confused and start typing common domain names. Also something that I did not know was that you can actually find where it states that Chrome supports Picture-in-Picture cabability within XML code! A new artifact I just had learned about is the recent_tasks directory under `data\system_ce\0\recent_tasks`. It list all recent tasks performed in a XML format. Looking into that can find Chrome XML data that if open you can find this line of code: "supports_picture_in_picture="true"" as shown the photo below.
-
+![Search](https://sdverar.github.io/DFIR/Assets/Snip1.JPG)
 ![XML Data](https://sdverar.github.io/DFIR/Assets/xmldata.JPG)
 
- This was something that I was not aware of until afterwards thanks to some of the folks in the Magnet Discord had shared it! I am thankful for the Magnet Team for putting together an event like this so students like myself can get some expsoure to forensic tools and learn a lot about Mobile Device Forensics. That is it for week 2, still working on Week 3, it is a tough one!
+ This was something that I was not aware of until afterwards thanks to some of the folks in the Magnet Discord had shared it! I am thankful for the Magnet Team for putting together an event like this so students like myself can get some expsoure to forensic tools and learn a lot about Mobile Device Forensics. That is it for week 2, still working on Week 3, it is a tough one!yes
