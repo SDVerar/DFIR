@@ -42,4 +42,4 @@ There are a couple of side notes to this and one is to make sure you do not do w
 
 ![XML Data](https://sdverar.github.io/DFIR/Assets/xmldata.JPG)
 
- This was something that I was not aware of until afterwards thanks to some of the folks in the Magnet Discord! I am thankful for the Magnet Team for putting together an event like this so students like myself can get some expsoure to forensic tools and learn a lot about Mobile Device Forensics. That is it for week 2, still working on Week 3, it is a tough one!
+ This was something that I was not aware of until afterwards thanks to some of the folks in the Magnet Discord had shared it! I am thankful for the Magnet Team for putting together an event like this so students like myself can get some expsoure to forensic tools and learn a lot about Mobile Device Forensics. That is it for week 2, still working on Week 3, it is a tough one!
